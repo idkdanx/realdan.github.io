@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on real blog!!</title>
+    <link>https://realdan.github.io/post/</link>
+    <description>Recent content in Posts on real blog!!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 20:01:45 -0400</lastBuildDate>
+    <atom:link href="https://realdan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Este es el primer post del blog</title>
+      <link>https://realdan.github.io/post/post/</link>
+      <pubDate>Wed, 13 Nov 2024 20:01:45 -0400</pubDate>
+      <guid>https://realdan.github.io/post/post/</guid>
+      <description>&lt;p&gt;hola este es el contenido del post&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
